@@ -1,0 +1,5 @@
+{
+  "name": "Charizard's Volcano Run",
+  "description": "A Flappy Bird style game featuring Charizard avoiding volcanic rocks. Built with React, TypeScript, and Framer Motion.",
+  "requestFramePermissions": []
+}
